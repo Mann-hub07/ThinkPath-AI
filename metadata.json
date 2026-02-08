@@ -1,0 +1,8 @@
+{
+  "name": "ThinkPath AI",
+  "description": "A live AI reasoning workspace that prioritizes deep conceptual clarity over instant solutions using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
